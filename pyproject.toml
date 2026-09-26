@@ -1,0 +1,14 @@
+[project]
+name = "spectrum-ltx"
+description = "Feature-level Spectrum acceleration for native ComfyUI LTXV / LTXAV models."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = ["torch"]
+
+[project.urls]
+Repository = "https://github.com/Gavr728/ComfyUI-Spectrum-LTX"
+
+[tool.comfy]
+PublisherId = "gavr728"  # Your handle on registry.comfy.org
+DisplayName = "Spectrum LTX"
+Icon = ""

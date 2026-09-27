@@ -2,7 +2,7 @@
 name = "spectrum-ltx"
 description = "Feature-level Spectrum acceleration for native ComfyUI LTXV / LTXAV models."
 version = "1.0.0"
-license = { file = "LICENSE" }
+license = { text = "GPL-3.0-or-later" }
 dependencies = ["torch"]
 
 [project.urls]

@@ -102,3 +102,16 @@ For complete mathematical derivations, bug post-mortems (`NestedTensor` handling
 
 👉 **[Base Practical Workflow Guide.md](./Base%20Practical%20Workflow%20Guide.md)**
 👉 **[Official negative prompting Guide](https://ltx.io/blog/negative-prompts)**
+
+--
+
+## Acknowledgements & Attribution
+
+- **Spectrum Algorithm**: Based on *“Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration”* (arXiv:2603.01623) by Jiaqi Han, Juntong Shi, Puheng Li, Haotian Ye, Qiushan Guo, and Stefano Ermon.
+- **Upstream ComfyUI Integration**: Adapted and modified from [ComfyUI-Spectrum-MiniMax-H3](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3) by **xmarre**.
+
+---
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 or later (GPL-3.0-or-later)**. See the [LICENSE](LICENSE) file for the full license text.

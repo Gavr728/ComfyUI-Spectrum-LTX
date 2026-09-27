@@ -3,7 +3,7 @@ ComfyUI-Spectrum-LTX25: Adaptive Spectral Feature Forecasting for LTX 2.5
 Hybrid Release: Ground-truth auto-detection with deterministic manual override and guided presets.
 Based on and adapted from ComfyUI-Spectrum-MiniMax-H3:
 Copyright (C) 2026 xmarre (https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3)
-Ported and adapted for LTX-Video / LTX-2.x models by gavr728 (2026).
+Ported and adapted for LTX-Video / LTX-2.x models by gavr728 (2026-09-26).
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

@@ -3,7 +3,7 @@ ComfyUI-Spectrum-LTX
 Spectrum (arXiv 2603.01623) for native ComfyUI LTXV / LTXAV (LTX-2.x) models.
 Based on and adapted from ComfyUI-Spectrum-MiniMax-H3:
 Copyright (C) 2026 xmarre (https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3)
-Ported and adapted for LTX-Video / LTX-2.x models by gavr728 (2026).
+Ported and adapted for LTX-Video / LTX-2.x models by gavr728 (2026-09-26).
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
